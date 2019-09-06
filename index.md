@@ -2,9 +2,15 @@
 
 本文用于记录并整合在使用VirtualBox 6.0搭建CentOS 7虚拟机时在网上查询的一些内容，做个记录以便日后使用。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 创建CentOS7虚拟机
 
-### Markdown
+### 修改虚拟机配置
+
+### 安装CentOS7系统
+
+### 设置静态ip并开放防火墙端口
+
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
