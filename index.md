@@ -2,15 +2,18 @@
 
 本文用于记录并整合在使用VirtualBox 6.0搭建CentOS 7虚拟机时在网上查询的一些内容，做个记录以便日后使用。
 
-### 创建CentOS7虚拟机
+使用的软件版本：
 
-### 修改虚拟机配置
+![avatar](images/virtualbox_version.png)
+![avatar](images/centos_version.png)
 
-### 安装CentOS7系统
+### 1.创建CentOS7虚拟机
 
-### 设置静态ip并开放防火墙端口
+### 2.修改虚拟机配置
 
-### 
+### 3.安装CentOS7系统
+
+### 4.设置静态ip并开放防火墙端口
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
